@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple">#5A4295</color>
+    <color name="purple_dark">#2b1a66</color>
+    <color name="purple_light">#8a6ec6</color>
+    <color name="navy">#2B2E69</color>
+    <color name="magenta">#5A4295</color>
+    <color name="magenta_dark">#2b1a66</color>
+    <color name="white">#ffffff</color>
+    <color name="background">#dddddd</color>
+
+</resources>
